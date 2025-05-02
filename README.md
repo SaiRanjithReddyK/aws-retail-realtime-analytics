@@ -1,7 +1,6 @@
 #  AWS Retail Real-Time Analytics Pipeline
 
-Build a real-time data streaming and analytics solution using **AWS Kinesis**, **Lambda**, **S3**, **Athena**, and **QuickSight**.  
-This project simulates **70 live retail transactions**, pushes them through a streaming pipeline, and generates **interactive business dashboards** with zero-latency insights.
+A real-time data pipeline built with **AWS Kinesis**, **AWS Lambda**, **S3**, **Athena**, and **QuickSight**, simulating and analyzing **70+ retail transactions**. This project demonstrates how to stream, store, query, and visualize transactional data using fully managed AWS services, along with **Python** for simulation and Lambda logic, and **SQL** for analytics in Athena.
 
 ---
 
